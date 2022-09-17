@@ -1,0 +1,19 @@
+{
+    "users" : [
+        {
+            "id" : 1,
+            "status" : false,
+            "title" : "pushpa"
+        },
+        {
+            "id" : 1,
+            "status" : false,
+            "title" : "CM Bharat"
+        },
+        {
+            "id" : 1,
+            "status" : false,
+            "title" : "KGF"
+        }
+    ]
+}
