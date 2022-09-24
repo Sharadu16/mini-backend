@@ -1,37 +1,5 @@
 {
-    "hotel" : [
-        {
-          "id" : 1,
-          "category": "A1",
-          "image_url": "https://thumbs.dreamstime.com/b/hotel-10732347.jpg",
-          "type_of_room": "AC",
-          "bed_type": "double",
-          "no_of_persons":"2",
-          "capacity":"2 person",
-          "cost":"$3000",
-          "booked":false
-        },
-        {
-          "id" : 2,
-          "category": "A1",
-          "image_url": "https://thumbs.dreamstime.com/b/hotel-10732347.jpg",
-          "type_of_room": "AC",
-          "bed_type": "double",
-          "no_of_persons":"2",
-          "capacity":"2 person",
-          "cost":"$3000",
-          "booked":false
-        },
-        {
-          "id" : 1,
-          "category": "A1",
-          "image_url": "https://thumbs.dreamstime.com/b/hotel-10732347.jpg",
-          "type_of_room": "AC",
-          "bed_type": "double",
-          "no_of_persons":"2",
-          "capacity":"2 person",
-          "cost":"$3000",
-          "booked":false
-        }
-       ]
+    "cart" : [
+        
+    ]
 }
